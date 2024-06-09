@@ -1,15 +1,2 @@
-# React + Vite
-
-## Install
-
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
-```
 # Natural-Picture
-# Natural-Picture
+https://github.com/lorelero/Natural-Picture
